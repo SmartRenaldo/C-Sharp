@@ -15,6 +15,10 @@
             int i3 = 555;
             byte b3 = (byte)i3;
             Console.WriteLine(b3);
+
+            var numStr = "34567";
+            int num = Convert.ToInt32(numStr);
+            Console.WriteLine(num);
         }
     }
 }
