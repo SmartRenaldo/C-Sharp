@@ -22,6 +22,12 @@
             Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
             Console.WriteLine("{0} {1}", int.MinValue, int.MaxValue);
             Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
+
+            var s = "5";
+            int i = Convert.ToInt32(s);
+            int j = int.Parse(s);
+            Console.WriteLine(i);
+            Console.WriteLine(j);
         }
     }
 }
