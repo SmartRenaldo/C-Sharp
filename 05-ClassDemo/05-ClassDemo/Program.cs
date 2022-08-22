@@ -1,4 +1,6 @@
-﻿namespace CSharpFundamentals
+﻿using CSharpFundamentals.Math;
+
+namespace CSharpFundamentals
 {
     class Program
     {
@@ -9,7 +11,8 @@
             cinnamon.Description = "A golden hair dog";
             cinnamon.bark();
 
-            Calcu
+            int res = Calculator.Add(5, 6);
+            Console.WriteLine(res);
         }
     }
 }
