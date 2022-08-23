@@ -1,0 +1,15 @@
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\bin\Debug\net6.0\16-StringBuilder.exe
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\bin\Debug\net6.0\16-StringBuilder.deps.json
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\bin\Debug\net6.0\16-StringBuilder.runtimeconfig.json
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\bin\Debug\net6.0\16-StringBuilder.dll
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\bin\Debug\net6.0\16-StringBuilder.pdb
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\obj\Debug\net6.0\16-StringBuilder.csproj.AssemblyReference.cache
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\obj\Debug\net6.0\16-StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\obj\Debug\net6.0\16-StringBuilder.AssemblyInfoInputs.cache
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\obj\Debug\net6.0\16-StringBuilder.AssemblyInfo.cs
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\obj\Debug\net6.0\16-StringBuilder.csproj.CoreCompileInputs.cache
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\obj\Debug\net6.0\16-StringBuilder.dll
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\obj\Debug\net6.0\refint\16-StringBuilder.dll
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\obj\Debug\net6.0\16-StringBuilder.pdb
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\obj\Debug\net6.0\16-StringBuilder.genruntimeconfig.cache
+C:\Projects\C#\16-StringBuilder\16-StringBuilder\obj\Debug\net6.0\ref\16-StringBuilder.dll
