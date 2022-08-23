@@ -4,34 +4,27 @@
     {
         static void Main(string[] args)
         {
-            var numbers = new[] { 1, 2, 3, 4 };
-            Console.WriteLine(Array.IndexOf(numbers, 3));
-            Console.WriteLine();
-
-            Array.Clear(numbers, 0, 2);
+            var numbers = new List<int>() { 1, 2, 3, 4, 5 };
+            numbers.Add(9);
+            numbers.AddRange(new int[2] { -4, 0 });
 
             foreach (var number in numbers)
             {
                 Console.WriteLine(number);
             }
 
-            int[] newNumbers = new int[3];
-            Array.Copy(numbers, 1, newNumbers, 0, 3);
-            Console.WriteLine();
+            Console.WriteLine(numbers.IndexOf(-5));
+            Console.WriteLine(numbers.IndexOf(5));
+            Console.WriteLine("Count: " + numbers.Count);
 
-            foreach (var newNumber in newNumbers)
+            for (int i = 0; i < numbers.Count; i++)
             {
-                Console.WriteLine(newNumber);
+                if (numbers[i] == 9)
+                    numbers.Remove(numbers[i]);
             }
 
-
-            var matrix = new int[3, 5]
-            {
-                { 1, 2, 3, 4, 5 },
-                { 1, 2, 3, 4, 5 },
-                { 1, 2, 3, 4, 5 }
-            };
-
+            foreach (var number in numbers)
+                Console.WriteLine(number);
         }
     }
 }

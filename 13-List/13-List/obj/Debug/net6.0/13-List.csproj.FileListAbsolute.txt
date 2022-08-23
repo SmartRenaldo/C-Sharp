@@ -1,0 +1,15 @@
+C:\Projects\C#\13-List\13-List\bin\Debug\net6.0\13-List.exe
+C:\Projects\C#\13-List\13-List\bin\Debug\net6.0\13-List.deps.json
+C:\Projects\C#\13-List\13-List\bin\Debug\net6.0\13-List.runtimeconfig.json
+C:\Projects\C#\13-List\13-List\bin\Debug\net6.0\13-List.dll
+C:\Projects\C#\13-List\13-List\bin\Debug\net6.0\13-List.pdb
+C:\Projects\C#\13-List\13-List\obj\Debug\net6.0\13-List.csproj.AssemblyReference.cache
+C:\Projects\C#\13-List\13-List\obj\Debug\net6.0\13-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\13-List\13-List\obj\Debug\net6.0\13-List.AssemblyInfoInputs.cache
+C:\Projects\C#\13-List\13-List\obj\Debug\net6.0\13-List.AssemblyInfo.cs
+C:\Projects\C#\13-List\13-List\obj\Debug\net6.0\13-List.csproj.CoreCompileInputs.cache
+C:\Projects\C#\13-List\13-List\obj\Debug\net6.0\13-List.dll
+C:\Projects\C#\13-List\13-List\obj\Debug\net6.0\refint\13-List.dll
+C:\Projects\C#\13-List\13-List\obj\Debug\net6.0\13-List.pdb
+C:\Projects\C#\13-List\13-List\obj\Debug\net6.0\13-List.genruntimeconfig.cache
+C:\Projects\C#\13-List\13-List\obj\Debug\net6.0\ref\13-List.dll
