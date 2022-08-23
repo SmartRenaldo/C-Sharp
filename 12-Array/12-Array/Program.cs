@@ -32,13 +32,6 @@
                 { 1, 2, 3, 4, 5 }
             };
 
-            /*foreach (int i in matrix)
-            {
-                foreach (int j in i)
-                {
-                    Console.WriteLine(j); 
-                }
-            }*/
         }
     }
 }
