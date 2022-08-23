@@ -48,7 +48,7 @@
                     Console.WriteLine(t);
                 t++;
             }
-
+            
             Console.WriteLine();
 
             while (true)
