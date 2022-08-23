@@ -4,27 +4,36 @@
     {
         static void Main(string[] args)
         {
-            var numbers = new List<int>() { 1, 2, 3, 4, 5 };
-            numbers.Add(9);
-            numbers.AddRange(new int[2] { -4, 0 });
+            var dateTime = new DateTime(2015, 1, 1);
+            var now = DateTime.Now;
+            var today = DateTime.Today;
 
-            foreach (var number in numbers)
-            {
-                Console.WriteLine(number);
-            }
+            Console.WriteLine(now);
+            Console.WriteLine(now.Hour);
+            Console.WriteLine(now.Minute);
+            Console.WriteLine(today);
 
-            Console.WriteLine(numbers.IndexOf(-5));
-            Console.WriteLine(numbers.IndexOf(5));
-            Console.WriteLine("Count: " + numbers.Count);
+            var tomorrow = now.AddDays(1);
+            var yesterday = now.AddDays(-1);
+            Console.WriteLine(tomorrow.ToLongDateString());
+            Console.WriteLine(tomorrow.ToShortDateString());
+            Console.WriteLine(tomorrow.ToLongTimeString());
+            Console.WriteLine(tomorrow.ToShortTimeString());
+            Console.WriteLine(tomorrow.ToString("yyyy MM dd HH mm ss"));
 
-            for (int i = 0; i < numbers.Count; i++)
-            {
-                if (numbers[i] == 9)
-                    numbers.Remove(numbers[i]);
-            }
+            var timeSpan = new TimeSpan(1, 2, 3);
+            var timeSpan1 = new TimeSpan(1, 0, 0);
+            var timeSpan2 = TimeSpan.FromHours(1);
+            var start = DateTime.Now;
+            var end = DateTime.Now.AddMinutes(2);
+            var duration = end - start;
+            Console.WriteLine(duration);
 
-            foreach (var number in numbers)
-                Console.WriteLine(number);
+            Console.WriteLine(timeSpan);
+            Console.WriteLine("Total days: " + timeSpan.TotalDays);
+            Console.WriteLine("Days: " + timeSpan.Days);
+
+            Console.WriteLine("Add example: " + timeSpan.Add(TimeSpan.FromMinutes(8)));
         }
     }
 }

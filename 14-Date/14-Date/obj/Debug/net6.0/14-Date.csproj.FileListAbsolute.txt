@@ -1,0 +1,15 @@
+C:\Projects\C#\14-Date\14-Date\bin\Debug\net6.0\14-Date.exe
+C:\Projects\C#\14-Date\14-Date\bin\Debug\net6.0\14-Date.deps.json
+C:\Projects\C#\14-Date\14-Date\bin\Debug\net6.0\14-Date.runtimeconfig.json
+C:\Projects\C#\14-Date\14-Date\bin\Debug\net6.0\14-Date.dll
+C:\Projects\C#\14-Date\14-Date\bin\Debug\net6.0\14-Date.pdb
+C:\Projects\C#\14-Date\14-Date\obj\Debug\net6.0\14-Date.csproj.AssemblyReference.cache
+C:\Projects\C#\14-Date\14-Date\obj\Debug\net6.0\14-Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\14-Date\14-Date\obj\Debug\net6.0\14-Date.AssemblyInfoInputs.cache
+C:\Projects\C#\14-Date\14-Date\obj\Debug\net6.0\14-Date.AssemblyInfo.cs
+C:\Projects\C#\14-Date\14-Date\obj\Debug\net6.0\14-Date.csproj.CoreCompileInputs.cache
+C:\Projects\C#\14-Date\14-Date\obj\Debug\net6.0\14-Date.dll
+C:\Projects\C#\14-Date\14-Date\obj\Debug\net6.0\refint\14-Date.dll
+C:\Projects\C#\14-Date\14-Date\obj\Debug\net6.0\14-Date.pdb
+C:\Projects\C#\14-Date\14-Date\obj\Debug\net6.0\14-Date.genruntimeconfig.cache
+C:\Projects\C#\14-Date\14-Date\obj\Debug\net6.0\ref\14-Date.dll
