@@ -1,0 +1,15 @@
+C:\Projects\C#\15-String\15-String\bin\Debug\net6.0\15-String.exe
+C:\Projects\C#\15-String\15-String\bin\Debug\net6.0\15-String.deps.json
+C:\Projects\C#\15-String\15-String\bin\Debug\net6.0\15-String.runtimeconfig.json
+C:\Projects\C#\15-String\15-String\bin\Debug\net6.0\15-String.dll
+C:\Projects\C#\15-String\15-String\bin\Debug\net6.0\15-String.pdb
+C:\Projects\C#\15-String\15-String\obj\Debug\net6.0\15-String.csproj.AssemblyReference.cache
+C:\Projects\C#\15-String\15-String\obj\Debug\net6.0\15-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\15-String\15-String\obj\Debug\net6.0\15-String.AssemblyInfoInputs.cache
+C:\Projects\C#\15-String\15-String\obj\Debug\net6.0\15-String.AssemblyInfo.cs
+C:\Projects\C#\15-String\15-String\obj\Debug\net6.0\15-String.csproj.CoreCompileInputs.cache
+C:\Projects\C#\15-String\15-String\obj\Debug\net6.0\15-String.dll
+C:\Projects\C#\15-String\15-String\obj\Debug\net6.0\refint\15-String.dll
+C:\Projects\C#\15-String\15-String\obj\Debug\net6.0\15-String.pdb
+C:\Projects\C#\15-String\15-String\obj\Debug\net6.0\15-String.genruntimeconfig.cache
+C:\Projects\C#\15-String\15-String\obj\Debug\net6.0\ref\15-String.dll
