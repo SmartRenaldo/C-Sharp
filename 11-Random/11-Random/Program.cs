@@ -4,63 +4,25 @@
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
+            var random = new Random();
+            var randomInt = random.Next();
+            Console.WriteLine(randomInt);
+
+            randomInt = random.Next(1, 10);
+            Console.WriteLine(randomInt);
+
+            randomInt = random.Next(97, 123);
+            Console.WriteLine((char)randomInt);
+
+            char[] buffer = new char[10];
+
+            for (int i = 0; i < buffer.Length; i++)
             {
-                if (i % 3 == 0)
-                {
-                    Console.WriteLine(i);
-                }
+                buffer[i] = (char)('a' + random.Next(0, 26));
             }
 
-            Console.WriteLine();
-
-            for (int i = 9; i >= 0; i--)
-            {
-                if (i % 3 == 0)
-                {
-                    Console.WriteLine(i);
-                }
-            }
-
-            Console.WriteLine();
-
-            var name = "Scott Morrison";
-
-            for (int i = 0; i < name.Length; i++)
-            {
-                Console.WriteLine(name[i]);
-            }
-
-            Console.WriteLine();
-
-            foreach (var ch in name)
-            {
-                Console.WriteLine(ch);
-            }
-
-            Console.WriteLine();
-
-            var t = 0;
-
-            while (t <= 20)
-            {
-                if (t % 4 == 0)
-                    Console.WriteLine(t);
-                t++;
-            }
-
-            Console.WriteLine();
-
-            while (true)
-            {
-                Console.Write("Type a string: ");
-                var input = Console.ReadLine();
-
-                if (String.IsNullOrWhiteSpace(input))
-                    break;
-
-                Console.WriteLine(input);
-            }
+            var password = new string(buffer);
+            Console.WriteLine(password);
         }
     }
 }

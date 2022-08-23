@@ -1,0 +1,15 @@
+C:\Projects\C#\11-Random\11-Random\bin\Debug\net6.0\11-Random.exe
+C:\Projects\C#\11-Random\11-Random\bin\Debug\net6.0\11-Random.deps.json
+C:\Projects\C#\11-Random\11-Random\bin\Debug\net6.0\11-Random.runtimeconfig.json
+C:\Projects\C#\11-Random\11-Random\bin\Debug\net6.0\11-Random.dll
+C:\Projects\C#\11-Random\11-Random\bin\Debug\net6.0\11-Random.pdb
+C:\Projects\C#\11-Random\11-Random\obj\Debug\net6.0\11-Random.csproj.AssemblyReference.cache
+C:\Projects\C#\11-Random\11-Random\obj\Debug\net6.0\11-Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\11-Random\11-Random\obj\Debug\net6.0\11-Random.AssemblyInfoInputs.cache
+C:\Projects\C#\11-Random\11-Random\obj\Debug\net6.0\11-Random.AssemblyInfo.cs
+C:\Projects\C#\11-Random\11-Random\obj\Debug\net6.0\11-Random.csproj.CoreCompileInputs.cache
+C:\Projects\C#\11-Random\11-Random\obj\Debug\net6.0\11-Random.dll
+C:\Projects\C#\11-Random\11-Random\obj\Debug\net6.0\refint\11-Random.dll
+C:\Projects\C#\11-Random\11-Random\obj\Debug\net6.0\11-Random.pdb
+C:\Projects\C#\11-Random\11-Random\obj\Debug\net6.0\11-Random.genruntimeconfig.cache
+C:\Projects\C#\11-Random\11-Random\obj\Debug\net6.0\ref\11-Random.dll
