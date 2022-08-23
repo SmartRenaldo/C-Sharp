@@ -1,0 +1,15 @@
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\bin\Debug\net6.0\18-DirectoryAndDirectoryInfo.exe
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\bin\Debug\net6.0\18-DirectoryAndDirectoryInfo.deps.json
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\bin\Debug\net6.0\18-DirectoryAndDirectoryInfo.runtimeconfig.json
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\bin\Debug\net6.0\18-DirectoryAndDirectoryInfo.dll
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\bin\Debug\net6.0\18-DirectoryAndDirectoryInfo.pdb
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\obj\Debug\net6.0\18-DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\obj\Debug\net6.0\18-DirectoryAndDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\obj\Debug\net6.0\18-DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\obj\Debug\net6.0\18-DirectoryAndDirectoryInfo.AssemblyInfo.cs
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\obj\Debug\net6.0\18-DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\obj\Debug\net6.0\18-DirectoryAndDirectoryInfo.dll
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\obj\Debug\net6.0\refint\18-DirectoryAndDirectoryInfo.dll
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\obj\Debug\net6.0\18-DirectoryAndDirectoryInfo.pdb
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\obj\Debug\net6.0\18-DirectoryAndDirectoryInfo.genruntimeconfig.cache
+C:\Projects\C#\18-DirectoryAndDirectoryInfo\18-DirectoryAndDirectoryInfo\obj\Debug\net6.0\ref\18-DirectoryAndDirectoryInfo.dll
