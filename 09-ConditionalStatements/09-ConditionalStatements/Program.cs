@@ -18,6 +18,20 @@
             {
                 Console.WriteLine("Evening");
             }
+
+            var season = Season.Autumn;
+
+            switch (season)
+            {
+                case Season.Autumn:
+                    Console.WriteLine("It's autumn");
+                    break;
+                case Season.Spring:
+                case Season.Winter:
+                    Console.WriteLine("We got promotion");
+                    break;
+                default: break;
+            }
         }
     }
 }
